@@ -1,28 +1,31 @@
 {
   "vpn": {
-    "version": "1.5.7",
-    "version_code": 41,
-    "version_name": "1.5.7",
-    "url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.7/Icebreaker.apk",
-    "apk_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.7/Icebreaker.apk",
-    "sha256": "305669b707e52b534d306089b4d96f54ed1d8a992569aa1638d58fd4e63a842a",
-    "file_size": 20301751,
+    "version": "1.5.8",
+    "version_code": 42,
+    "version_name": "1.5.8",
+    "url": "http://147.45.218.238:39321/apk/Icebreaker.apk",
+    "apk_url": "http://147.45.218.238:39321/apk/Icebreaker.apk",
+    "sha256": "99f5daea3a2cf2f86da1f4bd27085d64410686185ea99f81179cf256683ae1c7",
+    "file_size": 20301746,
     "mandatory": true,
     "force_update": false,
-    "changelog": "v1.5.7: Исправлено автообновление — «недействительный пакет» больше не появляется. APK проверяется по ZIP-сигнатуре, размеру и SHA-256, разбор архива повторяется, файл не удаляется при ошибке, добавлена кнопка «Скачать APK вручную» и резервное зеркало.",
-    "mirror_url": "http://147.45.218.238:39321/apk/Icebreaker.apk"
+    "changelog": "v1.5.8: устранена ошибка «недопустимый пакет обновления» — проверка пакета больше не блокирует установку; основной адрес загрузки — зеркало, GitHub как резерв.",
+    "mirror_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.8/Icebreaker.apk",
+    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.8/Icebreaker.apk"
   },
   "admin": {
-    "version": "1.3.6",
-    "version_code": 19,
-    "version_name": "1.3.6",
-    "url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.6/Icebreaker_Admin.apk",
-    "apk_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.6/Icebreaker_Admin.apk",
-    "sha256": "655f28af8727e46bba9a5033ea40b70b7307739488badf8f3dc4c13cf9f62389",
-    "file_size": 4877086,
+    "version": "1.3.7",
+    "version_code": 20,
+    "version_name": "1.3.7",
+    "url": "http://147.45.218.238:39321/apk/Icebreaker_Admin.apk",
+    "apk_url": "http://147.45.218.238:39321/apk/Icebreaker_Admin.apk",
+    "sha256": "60ec461abc75d4c71726e4d09dcb11846e3172f6c3dbdab57d0859e9e9b954a9",
+    "file_size": 4929889,
     "mandatory": false,
     "force_update": false,
-    "changelog": "v1.3.6: Надёжная загрузка обновлений, доступ к локальным адресам QR-кодов."
+    "changelog": "v1.3.7: панель работает с новым сервером 147.45.218.238 и обновляется через зеркало.",
+    "mirror_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.8/Icebreaker_Admin.apk",
+    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.8/Icebreaker_Admin.apk"
   },
   "pc": {
     "version": "2.1.0",
