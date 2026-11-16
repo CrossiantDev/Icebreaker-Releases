@@ -1,17 +1,17 @@
 {
   "vpn": {
-    "version": "1.5.8",
-    "version_code": 42,
-    "version_name": "1.5.8",
+    "version": "1.5.9",
+    "version_code": 43,
+    "version_name": "1.5.9",
     "url": "http://147.45.218.238:39321/apk/Icebreaker.apk",
     "apk_url": "http://147.45.218.238:39321/apk/Icebreaker.apk",
-    "sha256": "99f5daea3a2cf2f86da1f4bd27085d64410686185ea99f81179cf256683ae1c7",
-    "file_size": 20301746,
+    "sha256": "87b942328e42fb9baa7680c8fb403c66f3b60b43c4f059d521cceabf7dbabade",
+    "file_size": 20252211,
     "mandatory": true,
     "force_update": false,
-    "changelog": "v1.5.8: устранена ошибка «недопустимый пакет обновления» — проверка пакета больше не блокирует установку; основной адрес загрузки — зеркало, GitHub как резерв.",
-    "mirror_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.8/Icebreaker.apk",
-    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.8/Icebreaker.apk"
+    "changelog": "v1.5.9: из приложения убраны встроенные ключи доступа — ключ теперь только из вашего QR-кода. Текущим пользователям перенастройка не нужна.",
+    "mirror_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.9/Icebreaker.apk",
+    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.9/Icebreaker.apk"
   },
   "admin": {
     "version": "1.3.7",
@@ -31,12 +31,14 @@
     "version": "2.1.0",
     "version_code": 21,
     "version_name": "2.1.0",
-    "url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.6/Icebreaker_Setup.exe",
-    "apk_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.6/Icebreaker_Setup.exe",
-    "sha256": "03489d53844f72a4310152d3a5b176c63510aa9684f42eeca45839f4bec46eea",
-    "file_size": 72775168,
+    "url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.9/Icebreaker_Setup.exe",
+    "apk_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.9/Icebreaker_Setup.exe",
+    "sha256": "19c3922284bbed2ec707a09ca4af2f7c983e697a2d94759b4e5799cbd6ce0ceb",
+    "file_size": 72773632,
     "mandatory": false,
     "force_update": false,
-    "changelog": "v2.1.0: AWG 3.1 стандарт (S1-S4=18, H1-H4=1-4), сервер Amsterdam (147.45.218.238:40456)."
+    "changelog": "v2.1.0 (16.11.2026): из установщика удалены встроенные ключи доступа; профиль добавляется своим QR-кодом. AWG 3.1, сервер Amsterdam (147.45.218.238:40456).",
+    "mirror_url": "http://147.45.218.238:39321/apk/Icebreaker_Setup.exe",
+    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.9/Icebreaker_Setup.exe"
   }
 }
