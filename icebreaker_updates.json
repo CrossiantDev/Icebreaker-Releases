@@ -1,17 +1,17 @@
 {
   "vpn": {
-    "version": "1.5.10",
-    "version_code": 44,
-    "version_name": "1.5.10",
+    "version": "1.5.11",
+    "version_code": 45,
+    "version_name": "1.5.11",
     "url": "http://147.45.218.238:39321/apk/Icebreaker.apk",
     "apk_url": "http://147.45.218.238:39321/apk/Icebreaker.apk",
-    "sha256": "b9ab6877ef3aec7d4509d5d6b7d511c3faa75e870b2aec1e2e20fb56ab1da2c8",
-    "file_size": 20252226,
+    "sha256": "e7c0da65cb429306525e4972ba65ca6512e7e7ed839a07b3d3281ca6c4fac49e",
+    "file_size": 20252549,
     "mandatory": true,
     "force_update": false,
-    "changelog": "v1.5.10: поддержка динамических клиентов (10.8.1.11–254) — каждому пользователю отдельный ключ и QR. Текущим пользователям перенастройка не нужна.",
-    "mirror_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.10/Icebreaker.apk",
-    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.10/Icebreaker.apk"
+    "changelog": "v1.5.11: банки и госуслуги по умолчанию идут напрямую, без VPN — чтобы банки не блокировали вход по IP. Остальной трафик через VPN.",
+    "mirror_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.11/Icebreaker.apk",
+    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.11/Icebreaker.apk"
   },
   "pc": {
     "version": "2.1.0",
