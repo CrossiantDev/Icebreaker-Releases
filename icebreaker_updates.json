@@ -1,17 +1,17 @@
 {
   "vpn": {
-    "version": "1.5.12",
-    "version_code": 46,
-    "version_name": "1.5.12",
+    "version": "1.5.13",
+    "version_code": 47,
+    "version_name": "1.5.13",
     "url": "http://147.45.218.238:39321/apk/Icebreaker.apk",
     "apk_url": "http://147.45.218.238:39321/apk/Icebreaker.apk",
-    "sha256": "ff52c95fb7934c2dff0c99ec3bbfa31ada07fc62f41ada9ee69925d948127294",
-    "file_size": 20252558,
+    "sha256": "c8680403dd47bd9620acd3aa5cbe914854f96e79efd2b55cf6a7b8eef99de01e",
+    "file_size": 20254330,
     "mandatory": true,
     "force_update": false,
-    "changelog": "v1.5.12: проверка обновления теперь начинается с собственного сервера — загрузка стартует сразу, без ожидания GitHub (раньше проверка могла висеть до 20 секунд).",
-    "mirror_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.12/Icebreaker.apk",
-    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.12/Icebreaker.apk"
+    "changelog": "v1.5.13: вторая локация — США (Нью-Джерси). На главном экране появился переключатель «Локация»: Нидерланды / США. Доступ к США включается персонально в панели администратора; у остальных кнопка показывает «в разработке». Нидерланды остаются основным узлом, ключи и QR не меняются.",
+    "mirror_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.13/Icebreaker.apk",
+    "github_url": "https://github.com/CrossiantDev/Icebreaker-Releases/releases/download/v1.5.13/Icebreaker.apk"
   },
   "pc": {
     "version": "2.1.0",
